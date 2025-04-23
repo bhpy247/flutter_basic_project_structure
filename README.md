@@ -13,5 +13,3 @@ A production-ready Flutter starter template with essential configurations for ra
 | **Theme Management**  | Pre-configured light/dark themes with easy customization                   |
 | **API Client**        | REST client with interceptors, error handling, and request/response logging |
 | **App Strings**       | Centralized string management for easy localization                        |
-
-## 📂 Core Structure
